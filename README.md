@@ -2,7 +2,7 @@
 > This project is under development. All source code and features on the main branch are for the purpose of testing or evaluation and not production ready.
 
 # MFD SERIAL
-Tool for communication via serial port (e.g UART). 
+Tool for communication via serial port (e.g UART) 
 
 ## Usage
 Open serial connection put serial port and baud rate:  
