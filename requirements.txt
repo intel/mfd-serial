@@ -1,2 +1,2 @@
 pyserial==3.5
-mfd-common-libs>=1.11.0
+mfd-common-libs>=1.12.0
